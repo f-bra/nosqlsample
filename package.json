@@ -1,0 +1,21 @@
+{
+  "name": "nosqlsample",
+  "version": "1.0.0",
+  "description": "prject to exemplify the noSQL approach",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/fbra/projectsMine/noSQLSample"
+  },
+  "keywords": [
+    "nosql"
+  ],
+  "author": "Fernando br",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.4.16"
+  }
+}
